@@ -1,0 +1,11 @@
+t = 1
+
+def f():
+	t = t + 1
+	return t
+
+a = None
+if(1 != 1 or 2 != 2 or 3 != 3 or 4 == 4 and a == a or f() == 2):
+	print(t)
+
+print(t)

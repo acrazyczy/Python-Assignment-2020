@@ -1,0 +1,8 @@
+print(True == True + False)
+print(True == True + True)
+print((None == None) + True + False + bool(''))
+print(True < False)
+print(False < (None == None))
+print(str(float(0.01)))
+print(str(float(1.0)))
+print(str(float(1926.0817)))

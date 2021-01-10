@@ -1,0 +1,38 @@
+def f(x):
+	if x == '	':
+		return None
+	if x == None:
+		return True
+	if x == True:
+		return False
+	if x == False:
+		return 2
+	if x == 2:
+		return '	'
+
+a = f('	')
+print(a)
+a = f(a)
+print(a)
+a = f(a)
+print(a)
+a = f(a)
+print(a)
+a = f(a)
+print(a)
+a = f(a)
+print(a)
+a = f(a)
+print(a)
+a = f(a)
+print(a)
+a = f(a)
+print(a)
+a = f(a)
+print(a)
+a = f(a)
+print(a)
+a = f(a)
+print(a)
+a = f(a)
+print(a)

@@ -1,0 +1,251 @@
+ay0, ay1, ay2, ay3, ay4, ay5, ay6, ay7 = False, False, False, False, False, False, False, False
+axy0, axy1, axy2, axy3, axy4, axy5, axy6, axy7, axy8, axy9, axy10, axy11, axy12, axy13, axy14 = False, False, False, False, False, False, False, False, False, False, False, False, False, False, False
+axny_7, axny_6, axny_5, axny_4, axny_3, axny_2, axny_1, axny0, axny1, axny2, axny3, axny4, axny5, axny6, axny7 = False, False, False, False, False, False, False, False, False, False, False, False, False, False, False
+
+n = 8
+
+def eight_queens(x = 0, y = 0):
+	if x == n:
+		return 1
+	flag = True
+	if y == 0:
+		flag = flag and not ay0
+	elif y == 1:
+		flag = flag and not ay1
+	elif y == 2:
+		flag = flag and not ay2
+	elif y == 3:
+		flag = flag and not ay3
+	elif y == 4:
+		flag = flag and not ay4
+	elif y == 5:
+		flag = flag and not ay5
+	elif y == 6:
+		flag = flag and not ay6
+	else:
+		flag = flag and not ay7
+	if x + y == 0:
+		flag = flag and not axy0
+	elif x + y == 1:
+		flag = flag and not axy1
+	elif x + y == 2:
+		flag = flag and not axy2
+	elif x + y == 3:
+		flag = flag and not axy3
+	elif x + y == 4:
+		flag = flag and not axy4
+	elif x + y == 5:
+		flag = flag and not axy5
+	elif x + y == 6:
+		flag = flag and not axy6
+	elif x + y == 7:
+		flag = flag and not axy7
+	elif x + y == 8:
+		flag = flag and not axy8
+	elif x + y == 9:
+		flag = flag and not axy9
+	elif x + y == 10:
+		flag = flag and not axy10
+	elif x + y == 11:
+		flag = flag and not axy11
+	elif x + y == 12:
+		flag = flag and not axy12
+	elif x + y == 13:
+		flag = flag and not axy13
+	else:
+		flag = flag and not axy14
+	if x - y == -7:
+		flag = flag and not axny_7
+	elif x - y == -6:
+		flag = flag and not axny_6
+	elif x - y == -5:
+		flag = flag and not axny_5
+	elif x - y == -4:
+		flag = flag and not axny_4
+	elif x - y == -3:
+		flag = flag and not axny_3
+	elif x - y == -2:
+		flag = flag and not axny_2
+	elif x - y == -1:
+		flag = flag and not axny_1
+	elif x == y:
+		flag = flag and not axny0
+	elif x - y == 1:
+		flag = flag and not axny1
+	elif x - y == 2:
+		flag = flag and not axny2
+	elif x - y == 3:
+		flag = flag and not axny3
+	elif x - y == 4:
+		flag = flag and not axny4
+	elif x - y == 5:
+		flag = flag and not axny5
+	elif x - y == 6:
+		flag = flag and not axny6
+	else:
+		flag = flag and not axny7
+	nx, ny = 0, 0
+	if y == n - 1:
+		nx, ny = x + 1, 0
+	else:
+		nx, ny = x, y + 1
+	ret = 0
+	if y < n - 1:
+		ret += eight_queens(nx, ny)
+	if flag:
+		if y == 0:
+			ay0 = True
+		elif y == 1:
+			ay1 = True
+		elif y == 2:
+			ay2 = True
+		elif y == 3:
+			ay3 = True
+		elif y == 4:
+			ay4 = True
+		elif y == 5:
+			ay5 = True
+		elif y == 6:
+			ay6 = True
+		else:
+			ay7 = True
+		if x + y == 0:
+			axy0 = True
+		elif x + y == 1:
+			axy1 = True
+		elif x + y == 2:
+			axy2 = True
+		elif x + y == 3:
+			axy3 = True
+		elif x + y == 4:
+			axy4 = True
+		elif x + y == 5:
+			axy5 = True
+		elif x + y == 6:
+			axy6 = True
+		elif x + y == 7:
+			axy7 = True
+		elif x + y == 8:
+			axy8 = True
+		elif x + y == 9:
+			axy9 = True
+		elif x + y == 10:
+			axy10 = True
+		elif x + y == 11:
+			axy11 = True
+		elif x + y == 12:
+			axy12 = True
+		elif x + y == 13:
+			axy13 = True
+		else:
+			axy14 = True
+		if x - y == -7:
+			axny_7 = True
+		elif x - y == -6:
+			axny_6 = True
+		elif x - y == -5:
+			axny_5 = True
+		elif x - y == -4:
+			axny_4 = True
+		elif x - y == -3:
+			axny_3 = True
+		elif x - y == -2:
+			axny_2 = True
+		elif x - y == -1:
+			axny_1 = True
+		elif x == y:
+			axny0 = True
+		elif x - y == 1:
+			axny1 = True
+		elif x - y == 2:
+			axny2 = True
+		elif x - y == 3:
+			axny3 = True
+		elif x - y == 4:
+			axny4 = True
+		elif x - y == 5:
+			axny5 = True
+		elif x - y == 6:
+			axny6 = True
+		else:
+			axny7 = True
+		ret += eight_queens(x + 1, 0)
+		if y == 0:
+			ay0 = False
+		elif y == 1:
+			ay1 = False
+		elif y == 2:
+			ay2 = False
+		elif y == 3:
+			ay3 = False
+		elif y == 4:
+			ay4 = False
+		elif y == 5:
+			ay5 = False
+		elif y == 6:
+			ay6 = False
+		else:
+			ay7 = False
+		if x + y == 0:
+			axy0 = False
+		elif x + y == 1:
+			axy1 = False
+		elif x + y == 2:
+			axy2 = False
+		elif x + y == 3:
+			axy3 = False
+		elif x + y == 4:
+			axy4 = False
+		elif x + y == 5:
+			axy5 = False
+		elif x + y == 6:
+			axy6 = False
+		elif x + y == 7:
+			axy7 = False
+		elif x + y == 8:
+			axy8 = False
+		elif x + y == 9:
+			axy9 = False
+		elif x + y == 10:
+			axy10 = False
+		elif x + y == 11:
+			axy11 = False
+		elif x + y == 12:
+			axy12 = False
+		elif x + y == 13:
+			axy13 = False
+		else:
+			axy14 = False
+		if x - y == -7:
+			axny_7 = False
+		elif x - y == -6:
+			axny_6 = False
+		elif x - y == -5:
+			axny_5 = False
+		elif x - y == -4:
+			axny_4 = False
+		elif x - y == -3:
+			axny_3 = False
+		elif x - y == -2:
+			axny_2 = False
+		elif x - y == -1:
+			axny_1 = False
+		elif x == y:
+			axny0 = False
+		elif x - y == 1:
+			axny1 = False
+		elif x - y == 2:
+			axny2 = False
+		elif x - y == 3:
+			axny3 = False
+		elif x - y == 4:
+			axny4 = False
+		elif x - y == 5:
+			axny5 = False
+		elif x - y == 6:
+			axny6 = False
+		else:
+			axny7 = False
+	return ret
+
+print(eight_queens())

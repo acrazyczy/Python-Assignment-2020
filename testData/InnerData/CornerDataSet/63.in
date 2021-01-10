@@ -1,0 +1,11 @@
+def f(a):
+	if not a:
+		return None, True, False, ''
+	else:
+		return None, True, False, 0, 1, '', '"'
+
+a, b, c, d = f(None)
+print(a, b, c, d)
+
+e, f, g, h, i, j, k = f('"')
+print(e, f, g, h, i, j, k)

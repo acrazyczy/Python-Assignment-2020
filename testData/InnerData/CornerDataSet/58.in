@@ -1,0 +1,10 @@
+t = 1
+
+def f():
+	t = t + 1
+	return t
+
+if(f() == 2 or f() == 3 and f() == 4):
+	print(t)
+
+print(t)

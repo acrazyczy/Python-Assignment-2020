@@ -1,0 +1,15 @@
+t = 1
+
+def f():
+	t = t + 1
+	return t
+
+def g():
+	return f(), f(), f()
+
+a, b, c = g()
+
+if(a == 2 and b == 3 and c == 4):
+	print(t)
+
+print(t)

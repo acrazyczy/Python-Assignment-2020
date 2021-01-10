@@ -1,0 +1,28 @@
+t = 1
+
+a = None
+b = bool(a)
+c = int(b)
+
+d = str(a)
+e = str(b)
+f = str(c)
+
+print(a, b, c, d, e, f)
+
+print(a == b)
+print(a == c)
+print(d == e)
+
+print(a == a and b == b and c == c and str(bool(a)) == str(bool(c)))
+
+g = str(a)
+
+print(a == g)
+
+h = 'False'
+
+print(h == b)
+print(bool(h) == b)
+print(h, str(b))
+print(h == str(b))

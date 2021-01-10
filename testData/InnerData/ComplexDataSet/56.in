@@ -1,0 +1,2123 @@
+n = 233
+f_0 = 232
+f_1 = 231
+f_2 = 230
+f_3 = 229
+f_4 = 228
+f_5 = 227
+f_6 = 226
+f_7 = 225
+f_8 = 224
+f_9 = 223
+f_10 = 222
+f_11 = 221
+f_12 = 220
+f_13 = 219
+f_14 = 218
+f_15 = 217
+f_16 = 216
+f_17 = 215
+f_18 = 214
+f_19 = 213
+f_20 = 212
+f_21 = 211
+f_22 = 210
+f_23 = 209
+f_24 = 208
+f_25 = 207
+f_26 = 206
+f_27 = 205
+f_28 = 204
+f_29 = 203
+f_30 = 202
+f_31 = 201
+f_32 = 200
+f_33 = 199
+f_34 = 198
+f_35 = 197
+f_36 = 196
+f_37 = 195
+f_38 = 194
+f_39 = 193
+f_40 = 192
+f_41 = 191
+f_42 = 190
+f_43 = 189
+f_44 = 188
+f_45 = 187
+f_46 = 186
+f_47 = 185
+f_48 = 184
+f_49 = 183
+f_50 = 182
+f_51 = 181
+f_52 = 180
+f_53 = 179
+f_54 = 178
+f_55 = 177
+f_56 = 176
+f_57 = 175
+f_58 = 174
+f_59 = 173
+f_60 = 172
+f_61 = 171
+f_62 = 170
+f_63 = 169
+f_64 = 168
+f_65 = 167
+f_66 = 166
+f_67 = 165
+f_68 = 164
+f_69 = 163
+f_70 = 162
+f_71 = 161
+f_72 = 160
+f_73 = 159
+f_74 = 158
+f_75 = 157
+f_76 = 156
+f_77 = 155
+f_78 = 154
+f_79 = 153
+f_80 = 152
+f_81 = 151
+f_82 = 150
+f_83 = 149
+f_84 = 148
+f_85 = 147
+f_86 = 146
+f_87 = 145
+f_88 = 144
+f_89 = 143
+f_90 = 142
+f_91 = 141
+f_92 = 140
+f_93 = 139
+f_94 = 138
+f_95 = 137
+f_96 = 136
+f_97 = 135
+f_98 = 134
+f_99 = 133
+f_100 = 132
+f_101 = 131
+f_102 = 130
+f_103 = 129
+f_104 = 128
+f_105 = 127
+f_106 = 126
+f_107 = 125
+f_108 = 124
+f_109 = 123
+f_110 = 122
+f_111 = 121
+f_112 = 120
+f_113 = 119
+f_114 = 118
+f_115 = 117
+f_116 = 116
+f_117 = 115
+f_118 = 114
+f_119 = 113
+f_120 = 112
+f_121 = 111
+f_122 = 110
+f_123 = 109
+f_124 = 108
+f_125 = 107
+f_126 = 106
+f_127 = 105
+f_128 = 104
+f_129 = 103
+f_130 = 102
+f_131 = 101
+f_132 = 100
+f_133 = 99
+f_134 = 98
+f_135 = 97
+f_136 = 96
+f_137 = 95
+f_138 = 94
+f_139 = 93
+f_140 = 92
+f_141 = 91
+f_142 = 90
+f_143 = 89
+f_144 = 88
+f_145 = 87
+f_146 = 86
+f_147 = 85
+f_148 = 84
+f_149 = 83
+f_150 = 82
+f_151 = 81
+f_152 = 80
+f_153 = 79
+f_154 = 78
+f_155 = 77
+f_156 = 76
+f_157 = 75
+f_158 = 74
+f_159 = 73
+f_160 = 72
+f_161 = 71
+f_162 = 70
+f_163 = 69
+f_164 = 68
+f_165 = 67
+f_166 = 66
+f_167 = 65
+f_168 = 64
+f_169 = 63
+f_170 = 62
+f_171 = 61
+f_172 = 60
+f_173 = 59
+f_174 = 58
+f_175 = 57
+f_176 = 56
+f_177 = 55
+f_178 = 54
+f_179 = 53
+f_180 = 52
+f_181 = 51
+f_182 = 50
+f_183 = 49
+f_184 = 48
+f_185 = 47
+f_186 = 46
+f_187 = 45
+f_188 = 44
+f_189 = 43
+f_190 = 42
+f_191 = 41
+f_192 = 40
+f_193 = 39
+f_194 = 38
+f_195 = 37
+f_196 = 36
+f_197 = 35
+f_198 = 34
+f_199 = 33
+f_200 = 32
+f_201 = 31
+f_202 = 30
+f_203 = 29
+f_204 = 28
+f_205 = 27
+f_206 = 26
+f_207 = 25
+f_208 = 24
+f_209 = 23
+f_210 = 22
+f_211 = 21
+f_212 = 20
+f_213 = 19
+f_214 = 18
+f_215 = 17
+f_216 = 16
+f_217 = 15
+f_218 = 14
+f_219 = 13
+f_220 = 12
+f_221 = 11
+f_222 = 10
+f_223 = 9
+f_224 = 8
+f_225 = 7
+f_226 = 6
+f_227 = 5
+f_228 = 4
+f_229 = 3
+f_230 = 2
+f_231 = 1
+f_232 = 0
+
+
+def qsort(l, r):
+	i, j, x = l, r, 0
+	if (l + r) // 2 == 0: x = f_0
+	elif (l + r) // 2 == 1: x = f_1
+	elif (l + r) // 2 == 2: x = f_2
+	elif (l + r) // 2 == 3: x = f_3
+	elif (l + r) // 2 == 4: x = f_4
+	elif (l + r) // 2 == 5: x = f_5
+	elif (l + r) // 2 == 6: x = f_6
+	elif (l + r) // 2 == 7: x = f_7
+	elif (l + r) // 2 == 8: x = f_8
+	elif (l + r) // 2 == 9: x = f_9
+	elif (l + r) // 2 == 10: x = f_10
+	elif (l + r) // 2 == 11: x = f_11
+	elif (l + r) // 2 == 12: x = f_12
+	elif (l + r) // 2 == 13: x = f_13
+	elif (l + r) // 2 == 14: x = f_14
+	elif (l + r) // 2 == 15: x = f_15
+	elif (l + r) // 2 == 16: x = f_16
+	elif (l + r) // 2 == 17: x = f_17
+	elif (l + r) // 2 == 18: x = f_18
+	elif (l + r) // 2 == 19: x = f_19
+	elif (l + r) // 2 == 20: x = f_20
+	elif (l + r) // 2 == 21: x = f_21
+	elif (l + r) // 2 == 22: x = f_22
+	elif (l + r) // 2 == 23: x = f_23
+	elif (l + r) // 2 == 24: x = f_24
+	elif (l + r) // 2 == 25: x = f_25
+	elif (l + r) // 2 == 26: x = f_26
+	elif (l + r) // 2 == 27: x = f_27
+	elif (l + r) // 2 == 28: x = f_28
+	elif (l + r) // 2 == 29: x = f_29
+	elif (l + r) // 2 == 30: x = f_30
+	elif (l + r) // 2 == 31: x = f_31
+	elif (l + r) // 2 == 32: x = f_32
+	elif (l + r) // 2 == 33: x = f_33
+	elif (l + r) // 2 == 34: x = f_34
+	elif (l + r) // 2 == 35: x = f_35
+	elif (l + r) // 2 == 36: x = f_36
+	elif (l + r) // 2 == 37: x = f_37
+	elif (l + r) // 2 == 38: x = f_38
+	elif (l + r) // 2 == 39: x = f_39
+	elif (l + r) // 2 == 40: x = f_40
+	elif (l + r) // 2 == 41: x = f_41
+	elif (l + r) // 2 == 42: x = f_42
+	elif (l + r) // 2 == 43: x = f_43
+	elif (l + r) // 2 == 44: x = f_44
+	elif (l + r) // 2 == 45: x = f_45
+	elif (l + r) // 2 == 46: x = f_46
+	elif (l + r) // 2 == 47: x = f_47
+	elif (l + r) // 2 == 48: x = f_48
+	elif (l + r) // 2 == 49: x = f_49
+	elif (l + r) // 2 == 50: x = f_50
+	elif (l + r) // 2 == 51: x = f_51
+	elif (l + r) // 2 == 52: x = f_52
+	elif (l + r) // 2 == 53: x = f_53
+	elif (l + r) // 2 == 54: x = f_54
+	elif (l + r) // 2 == 55: x = f_55
+	elif (l + r) // 2 == 56: x = f_56
+	elif (l + r) // 2 == 57: x = f_57
+	elif (l + r) // 2 == 58: x = f_58
+	elif (l + r) // 2 == 59: x = f_59
+	elif (l + r) // 2 == 60: x = f_60
+	elif (l + r) // 2 == 61: x = f_61
+	elif (l + r) // 2 == 62: x = f_62
+	elif (l + r) // 2 == 63: x = f_63
+	elif (l + r) // 2 == 64: x = f_64
+	elif (l + r) // 2 == 65: x = f_65
+	elif (l + r) // 2 == 66: x = f_66
+	elif (l + r) // 2 == 67: x = f_67
+	elif (l + r) // 2 == 68: x = f_68
+	elif (l + r) // 2 == 69: x = f_69
+	elif (l + r) // 2 == 70: x = f_70
+	elif (l + r) // 2 == 71: x = f_71
+	elif (l + r) // 2 == 72: x = f_72
+	elif (l + r) // 2 == 73: x = f_73
+	elif (l + r) // 2 == 74: x = f_74
+	elif (l + r) // 2 == 75: x = f_75
+	elif (l + r) // 2 == 76: x = f_76
+	elif (l + r) // 2 == 77: x = f_77
+	elif (l + r) // 2 == 78: x = f_78
+	elif (l + r) // 2 == 79: x = f_79
+	elif (l + r) // 2 == 80: x = f_80
+	elif (l + r) // 2 == 81: x = f_81
+	elif (l + r) // 2 == 82: x = f_82
+	elif (l + r) // 2 == 83: x = f_83
+	elif (l + r) // 2 == 84: x = f_84
+	elif (l + r) // 2 == 85: x = f_85
+	elif (l + r) // 2 == 86: x = f_86
+	elif (l + r) // 2 == 87: x = f_87
+	elif (l + r) // 2 == 88: x = f_88
+	elif (l + r) // 2 == 89: x = f_89
+	elif (l + r) // 2 == 90: x = f_90
+	elif (l + r) // 2 == 91: x = f_91
+	elif (l + r) // 2 == 92: x = f_92
+	elif (l + r) // 2 == 93: x = f_93
+	elif (l + r) // 2 == 94: x = f_94
+	elif (l + r) // 2 == 95: x = f_95
+	elif (l + r) // 2 == 96: x = f_96
+	elif (l + r) // 2 == 97: x = f_97
+	elif (l + r) // 2 == 98: x = f_98
+	elif (l + r) // 2 == 99: x = f_99
+	elif (l + r) // 2 == 100: x = f_100
+	elif (l + r) // 2 == 101: x = f_101
+	elif (l + r) // 2 == 102: x = f_102
+	elif (l + r) // 2 == 103: x = f_103
+	elif (l + r) // 2 == 104: x = f_104
+	elif (l + r) // 2 == 105: x = f_105
+	elif (l + r) // 2 == 106: x = f_106
+	elif (l + r) // 2 == 107: x = f_107
+	elif (l + r) // 2 == 108: x = f_108
+	elif (l + r) // 2 == 109: x = f_109
+	elif (l + r) // 2 == 110: x = f_110
+	elif (l + r) // 2 == 111: x = f_111
+	elif (l + r) // 2 == 112: x = f_112
+	elif (l + r) // 2 == 113: x = f_113
+	elif (l + r) // 2 == 114: x = f_114
+	elif (l + r) // 2 == 115: x = f_115
+	elif (l + r) // 2 == 116: x = f_116
+	elif (l + r) // 2 == 117: x = f_117
+	elif (l + r) // 2 == 118: x = f_118
+	elif (l + r) // 2 == 119: x = f_119
+	elif (l + r) // 2 == 120: x = f_120
+	elif (l + r) // 2 == 121: x = f_121
+	elif (l + r) // 2 == 122: x = f_122
+	elif (l + r) // 2 == 123: x = f_123
+	elif (l + r) // 2 == 124: x = f_124
+	elif (l + r) // 2 == 125: x = f_125
+	elif (l + r) // 2 == 126: x = f_126
+	elif (l + r) // 2 == 127: x = f_127
+	elif (l + r) // 2 == 128: x = f_128
+	elif (l + r) // 2 == 129: x = f_129
+	elif (l + r) // 2 == 130: x = f_130
+	elif (l + r) // 2 == 131: x = f_131
+	elif (l + r) // 2 == 132: x = f_132
+	elif (l + r) // 2 == 133: x = f_133
+	elif (l + r) // 2 == 134: x = f_134
+	elif (l + r) // 2 == 135: x = f_135
+	elif (l + r) // 2 == 136: x = f_136
+	elif (l + r) // 2 == 137: x = f_137
+	elif (l + r) // 2 == 138: x = f_138
+	elif (l + r) // 2 == 139: x = f_139
+	elif (l + r) // 2 == 140: x = f_140
+	elif (l + r) // 2 == 141: x = f_141
+	elif (l + r) // 2 == 142: x = f_142
+	elif (l + r) // 2 == 143: x = f_143
+	elif (l + r) // 2 == 144: x = f_144
+	elif (l + r) // 2 == 145: x = f_145
+	elif (l + r) // 2 == 146: x = f_146
+	elif (l + r) // 2 == 147: x = f_147
+	elif (l + r) // 2 == 148: x = f_148
+	elif (l + r) // 2 == 149: x = f_149
+	elif (l + r) // 2 == 150: x = f_150
+	elif (l + r) // 2 == 151: x = f_151
+	elif (l + r) // 2 == 152: x = f_152
+	elif (l + r) // 2 == 153: x = f_153
+	elif (l + r) // 2 == 154: x = f_154
+	elif (l + r) // 2 == 155: x = f_155
+	elif (l + r) // 2 == 156: x = f_156
+	elif (l + r) // 2 == 157: x = f_157
+	elif (l + r) // 2 == 158: x = f_158
+	elif (l + r) // 2 == 159: x = f_159
+	elif (l + r) // 2 == 160: x = f_160
+	elif (l + r) // 2 == 161: x = f_161
+	elif (l + r) // 2 == 162: x = f_162
+	elif (l + r) // 2 == 163: x = f_163
+	elif (l + r) // 2 == 164: x = f_164
+	elif (l + r) // 2 == 165: x = f_165
+	elif (l + r) // 2 == 166: x = f_166
+	elif (l + r) // 2 == 167: x = f_167
+	elif (l + r) // 2 == 168: x = f_168
+	elif (l + r) // 2 == 169: x = f_169
+	elif (l + r) // 2 == 170: x = f_170
+	elif (l + r) // 2 == 171: x = f_171
+	elif (l + r) // 2 == 172: x = f_172
+	elif (l + r) // 2 == 173: x = f_173
+	elif (l + r) // 2 == 174: x = f_174
+	elif (l + r) // 2 == 175: x = f_175
+	elif (l + r) // 2 == 176: x = f_176
+	elif (l + r) // 2 == 177: x = f_177
+	elif (l + r) // 2 == 178: x = f_178
+	elif (l + r) // 2 == 179: x = f_179
+	elif (l + r) // 2 == 180: x = f_180
+	elif (l + r) // 2 == 181: x = f_181
+	elif (l + r) // 2 == 182: x = f_182
+	elif (l + r) // 2 == 183: x = f_183
+	elif (l + r) // 2 == 184: x = f_184
+	elif (l + r) // 2 == 185: x = f_185
+	elif (l + r) // 2 == 186: x = f_186
+	elif (l + r) // 2 == 187: x = f_187
+	elif (l + r) // 2 == 188: x = f_188
+	elif (l + r) // 2 == 189: x = f_189
+	elif (l + r) // 2 == 190: x = f_190
+	elif (l + r) // 2 == 191: x = f_191
+	elif (l + r) // 2 == 192: x = f_192
+	elif (l + r) // 2 == 193: x = f_193
+	elif (l + r) // 2 == 194: x = f_194
+	elif (l + r) // 2 == 195: x = f_195
+	elif (l + r) // 2 == 196: x = f_196
+	elif (l + r) // 2 == 197: x = f_197
+	elif (l + r) // 2 == 198: x = f_198
+	elif (l + r) // 2 == 199: x = f_199
+	elif (l + r) // 2 == 200: x = f_200
+	elif (l + r) // 2 == 201: x = f_201
+	elif (l + r) // 2 == 202: x = f_202
+	elif (l + r) // 2 == 203: x = f_203
+	elif (l + r) // 2 == 204: x = f_204
+	elif (l + r) // 2 == 205: x = f_205
+	elif (l + r) // 2 == 206: x = f_206
+	elif (l + r) // 2 == 207: x = f_207
+	elif (l + r) // 2 == 208: x = f_208
+	elif (l + r) // 2 == 209: x = f_209
+	elif (l + r) // 2 == 210: x = f_210
+	elif (l + r) // 2 == 211: x = f_211
+	elif (l + r) // 2 == 212: x = f_212
+	elif (l + r) // 2 == 213: x = f_213
+	elif (l + r) // 2 == 214: x = f_214
+	elif (l + r) // 2 == 215: x = f_215
+	elif (l + r) // 2 == 216: x = f_216
+	elif (l + r) // 2 == 217: x = f_217
+	elif (l + r) // 2 == 218: x = f_218
+	elif (l + r) // 2 == 219: x = f_219
+	elif (l + r) // 2 == 220: x = f_220
+	elif (l + r) // 2 == 221: x = f_221
+	elif (l + r) // 2 == 222: x = f_222
+	elif (l + r) // 2 == 223: x = f_223
+	elif (l + r) // 2 == 224: x = f_224
+	elif (l + r) // 2 == 225: x = f_225
+	elif (l + r) // 2 == 226: x = f_226
+	elif (l + r) // 2 == 227: x = f_227
+	elif (l + r) // 2 == 228: x = f_228
+	elif (l + r) // 2 == 229: x = f_229
+	elif (l + r) // 2 == 230: x = f_230
+	elif (l + r) // 2 == 231: x = f_231
+	else: x = f_232
+	while i <= j:
+		while True:
+			tmp = 0
+			if i == 0: tmp = f_0
+			elif i == 1: tmp = f_1
+			elif i == 2: tmp = f_2
+			elif i == 3: tmp = f_3
+			elif i == 4: tmp = f_4
+			elif i == 5: tmp = f_5
+			elif i == 6: tmp = f_6
+			elif i == 7: tmp = f_7
+			elif i == 8: tmp = f_8
+			elif i == 9: tmp = f_9
+			elif i == 10: tmp = f_10
+			elif i == 11: tmp = f_11
+			elif i == 12: tmp = f_12
+			elif i == 13: tmp = f_13
+			elif i == 14: tmp = f_14
+			elif i == 15: tmp = f_15
+			elif i == 16: tmp = f_16
+			elif i == 17: tmp = f_17
+			elif i == 18: tmp = f_18
+			elif i == 19: tmp = f_19
+			elif i == 20: tmp = f_20
+			elif i == 21: tmp = f_21
+			elif i == 22: tmp = f_22
+			elif i == 23: tmp = f_23
+			elif i == 24: tmp = f_24
+			elif i == 25: tmp = f_25
+			elif i == 26: tmp = f_26
+			elif i == 27: tmp = f_27
+			elif i == 28: tmp = f_28
+			elif i == 29: tmp = f_29
+			elif i == 30: tmp = f_30
+			elif i == 31: tmp = f_31
+			elif i == 32: tmp = f_32
+			elif i == 33: tmp = f_33
+			elif i == 34: tmp = f_34
+			elif i == 35: tmp = f_35
+			elif i == 36: tmp = f_36
+			elif i == 37: tmp = f_37
+			elif i == 38: tmp = f_38
+			elif i == 39: tmp = f_39
+			elif i == 40: tmp = f_40
+			elif i == 41: tmp = f_41
+			elif i == 42: tmp = f_42
+			elif i == 43: tmp = f_43
+			elif i == 44: tmp = f_44
+			elif i == 45: tmp = f_45
+			elif i == 46: tmp = f_46
+			elif i == 47: tmp = f_47
+			elif i == 48: tmp = f_48
+			elif i == 49: tmp = f_49
+			elif i == 50: tmp = f_50
+			elif i == 51: tmp = f_51
+			elif i == 52: tmp = f_52
+			elif i == 53: tmp = f_53
+			elif i == 54: tmp = f_54
+			elif i == 55: tmp = f_55
+			elif i == 56: tmp = f_56
+			elif i == 57: tmp = f_57
+			elif i == 58: tmp = f_58
+			elif i == 59: tmp = f_59
+			elif i == 60: tmp = f_60
+			elif i == 61: tmp = f_61
+			elif i == 62: tmp = f_62
+			elif i == 63: tmp = f_63
+			elif i == 64: tmp = f_64
+			elif i == 65: tmp = f_65
+			elif i == 66: tmp = f_66
+			elif i == 67: tmp = f_67
+			elif i == 68: tmp = f_68
+			elif i == 69: tmp = f_69
+			elif i == 70: tmp = f_70
+			elif i == 71: tmp = f_71
+			elif i == 72: tmp = f_72
+			elif i == 73: tmp = f_73
+			elif i == 74: tmp = f_74
+			elif i == 75: tmp = f_75
+			elif i == 76: tmp = f_76
+			elif i == 77: tmp = f_77
+			elif i == 78: tmp = f_78
+			elif i == 79: tmp = f_79
+			elif i == 80: tmp = f_80
+			elif i == 81: tmp = f_81
+			elif i == 82: tmp = f_82
+			elif i == 83: tmp = f_83
+			elif i == 84: tmp = f_84
+			elif i == 85: tmp = f_85
+			elif i == 86: tmp = f_86
+			elif i == 87: tmp = f_87
+			elif i == 88: tmp = f_88
+			elif i == 89: tmp = f_89
+			elif i == 90: tmp = f_90
+			elif i == 91: tmp = f_91
+			elif i == 92: tmp = f_92
+			elif i == 93: tmp = f_93
+			elif i == 94: tmp = f_94
+			elif i == 95: tmp = f_95
+			elif i == 96: tmp = f_96
+			elif i == 97: tmp = f_97
+			elif i == 98: tmp = f_98
+			elif i == 99: tmp = f_99
+			elif i == 100: tmp = f_100
+			elif i == 101: tmp = f_101
+			elif i == 102: tmp = f_102
+			elif i == 103: tmp = f_103
+			elif i == 104: tmp = f_104
+			elif i == 105: tmp = f_105
+			elif i == 106: tmp = f_106
+			elif i == 107: tmp = f_107
+			elif i == 108: tmp = f_108
+			elif i == 109: tmp = f_109
+			elif i == 110: tmp = f_110
+			elif i == 111: tmp = f_111
+			elif i == 112: tmp = f_112
+			elif i == 113: tmp = f_113
+			elif i == 114: tmp = f_114
+			elif i == 115: tmp = f_115
+			elif i == 116: tmp = f_116
+			elif i == 117: tmp = f_117
+			elif i == 118: tmp = f_118
+			elif i == 119: tmp = f_119
+			elif i == 120: tmp = f_120
+			elif i == 121: tmp = f_121
+			elif i == 122: tmp = f_122
+			elif i == 123: tmp = f_123
+			elif i == 124: tmp = f_124
+			elif i == 125: tmp = f_125
+			elif i == 126: tmp = f_126
+			elif i == 127: tmp = f_127
+			elif i == 128: tmp = f_128
+			elif i == 129: tmp = f_129
+			elif i == 130: tmp = f_130
+			elif i == 131: tmp = f_131
+			elif i == 132: tmp = f_132
+			elif i == 133: tmp = f_133
+			elif i == 134: tmp = f_134
+			elif i == 135: tmp = f_135
+			elif i == 136: tmp = f_136
+			elif i == 137: tmp = f_137
+			elif i == 138: tmp = f_138
+			elif i == 139: tmp = f_139
+			elif i == 140: tmp = f_140
+			elif i == 141: tmp = f_141
+			elif i == 142: tmp = f_142
+			elif i == 143: tmp = f_143
+			elif i == 144: tmp = f_144
+			elif i == 145: tmp = f_145
+			elif i == 146: tmp = f_146
+			elif i == 147: tmp = f_147
+			elif i == 148: tmp = f_148
+			elif i == 149: tmp = f_149
+			elif i == 150: tmp = f_150
+			elif i == 151: tmp = f_151
+			elif i == 152: tmp = f_152
+			elif i == 153: tmp = f_153
+			elif i == 154: tmp = f_154
+			elif i == 155: tmp = f_155
+			elif i == 156: tmp = f_156
+			elif i == 157: tmp = f_157
+			elif i == 158: tmp = f_158
+			elif i == 159: tmp = f_159
+			elif i == 160: tmp = f_160
+			elif i == 161: tmp = f_161
+			elif i == 162: tmp = f_162
+			elif i == 163: tmp = f_163
+			elif i == 164: tmp = f_164
+			elif i == 165: tmp = f_165
+			elif i == 166: tmp = f_166
+			elif i == 167: tmp = f_167
+			elif i == 168: tmp = f_168
+			elif i == 169: tmp = f_169
+			elif i == 170: tmp = f_170
+			elif i == 171: tmp = f_171
+			elif i == 172: tmp = f_172
+			elif i == 173: tmp = f_173
+			elif i == 174: tmp = f_174
+			elif i == 175: tmp = f_175
+			elif i == 176: tmp = f_176
+			elif i == 177: tmp = f_177
+			elif i == 178: tmp = f_178
+			elif i == 179: tmp = f_179
+			elif i == 180: tmp = f_180
+			elif i == 181: tmp = f_181
+			elif i == 182: tmp = f_182
+			elif i == 183: tmp = f_183
+			elif i == 184: tmp = f_184
+			elif i == 185: tmp = f_185
+			elif i == 186: tmp = f_186
+			elif i == 187: tmp = f_187
+			elif i == 188: tmp = f_188
+			elif i == 189: tmp = f_189
+			elif i == 190: tmp = f_190
+			elif i == 191: tmp = f_191
+			elif i == 192: tmp = f_192
+			elif i == 193: tmp = f_193
+			elif i == 194: tmp = f_194
+			elif i == 195: tmp = f_195
+			elif i == 196: tmp = f_196
+			elif i == 197: tmp = f_197
+			elif i == 198: tmp = f_198
+			elif i == 199: tmp = f_199
+			elif i == 200: tmp = f_200
+			elif i == 201: tmp = f_201
+			elif i == 202: tmp = f_202
+			elif i == 203: tmp = f_203
+			elif i == 204: tmp = f_204
+			elif i == 205: tmp = f_205
+			elif i == 206: tmp = f_206
+			elif i == 207: tmp = f_207
+			elif i == 208: tmp = f_208
+			elif i == 209: tmp = f_209
+			elif i == 210: tmp = f_210
+			elif i == 211: tmp = f_211
+			elif i == 212: tmp = f_212
+			elif i == 213: tmp = f_213
+			elif i == 214: tmp = f_214
+			elif i == 215: tmp = f_215
+			elif i == 216: tmp = f_216
+			elif i == 217: tmp = f_217
+			elif i == 218: tmp = f_218
+			elif i == 219: tmp = f_219
+			elif i == 220: tmp = f_220
+			elif i == 221: tmp = f_221
+			elif i == 222: tmp = f_222
+			elif i == 223: tmp = f_223
+			elif i == 224: tmp = f_224
+			elif i == 225: tmp = f_225
+			elif i == 226: tmp = f_226
+			elif i == 227: tmp = f_227
+			elif i == 228: tmp = f_228
+			elif i == 229: tmp = f_229
+			elif i == 230: tmp = f_230
+			elif i == 231: tmp = f_231
+			else: tmp = f_232
+			if tmp >= x: break
+			i += 1
+		while True:
+			tmp = 0
+			if j == 0: tmp = f_0
+			elif j == 1: tmp = f_1
+			elif j == 2: tmp = f_2
+			elif j == 3: tmp = f_3
+			elif j == 4: tmp = f_4
+			elif j == 5: tmp = f_5
+			elif j == 6: tmp = f_6
+			elif j == 7: tmp = f_7
+			elif j == 8: tmp = f_8
+			elif j == 9: tmp = f_9
+			elif j == 10: tmp = f_10
+			elif j == 11: tmp = f_11
+			elif j == 12: tmp = f_12
+			elif j == 13: tmp = f_13
+			elif j == 14: tmp = f_14
+			elif j == 15: tmp = f_15
+			elif j == 16: tmp = f_16
+			elif j == 17: tmp = f_17
+			elif j == 18: tmp = f_18
+			elif j == 19: tmp = f_19
+			elif j == 20: tmp = f_20
+			elif j == 21: tmp = f_21
+			elif j == 22: tmp = f_22
+			elif j == 23: tmp = f_23
+			elif j == 24: tmp = f_24
+			elif j == 25: tmp = f_25
+			elif j == 26: tmp = f_26
+			elif j == 27: tmp = f_27
+			elif j == 28: tmp = f_28
+			elif j == 29: tmp = f_29
+			elif j == 30: tmp = f_30
+			elif j == 31: tmp = f_31
+			elif j == 32: tmp = f_32
+			elif j == 33: tmp = f_33
+			elif j == 34: tmp = f_34
+			elif j == 35: tmp = f_35
+			elif j == 36: tmp = f_36
+			elif j == 37: tmp = f_37
+			elif j == 38: tmp = f_38
+			elif j == 39: tmp = f_39
+			elif j == 40: tmp = f_40
+			elif j == 41: tmp = f_41
+			elif j == 42: tmp = f_42
+			elif j == 43: tmp = f_43
+			elif j == 44: tmp = f_44
+			elif j == 45: tmp = f_45
+			elif j == 46: tmp = f_46
+			elif j == 47: tmp = f_47
+			elif j == 48: tmp = f_48
+			elif j == 49: tmp = f_49
+			elif j == 50: tmp = f_50
+			elif j == 51: tmp = f_51
+			elif j == 52: tmp = f_52
+			elif j == 53: tmp = f_53
+			elif j == 54: tmp = f_54
+			elif j == 55: tmp = f_55
+			elif j == 56: tmp = f_56
+			elif j == 57: tmp = f_57
+			elif j == 58: tmp = f_58
+			elif j == 59: tmp = f_59
+			elif j == 60: tmp = f_60
+			elif j == 61: tmp = f_61
+			elif j == 62: tmp = f_62
+			elif j == 63: tmp = f_63
+			elif j == 64: tmp = f_64
+			elif j == 65: tmp = f_65
+			elif j == 66: tmp = f_66
+			elif j == 67: tmp = f_67
+			elif j == 68: tmp = f_68
+			elif j == 69: tmp = f_69
+			elif j == 70: tmp = f_70
+			elif j == 71: tmp = f_71
+			elif j == 72: tmp = f_72
+			elif j == 73: tmp = f_73
+			elif j == 74: tmp = f_74
+			elif j == 75: tmp = f_75
+			elif j == 76: tmp = f_76
+			elif j == 77: tmp = f_77
+			elif j == 78: tmp = f_78
+			elif j == 79: tmp = f_79
+			elif j == 80: tmp = f_80
+			elif j == 81: tmp = f_81
+			elif j == 82: tmp = f_82
+			elif j == 83: tmp = f_83
+			elif j == 84: tmp = f_84
+			elif j == 85: tmp = f_85
+			elif j == 86: tmp = f_86
+			elif j == 87: tmp = f_87
+			elif j == 88: tmp = f_88
+			elif j == 89: tmp = f_89
+			elif j == 90: tmp = f_90
+			elif j == 91: tmp = f_91
+			elif j == 92: tmp = f_92
+			elif j == 93: tmp = f_93
+			elif j == 94: tmp = f_94
+			elif j == 95: tmp = f_95
+			elif j == 96: tmp = f_96
+			elif j == 97: tmp = f_97
+			elif j == 98: tmp = f_98
+			elif j == 99: tmp = f_99
+			elif j == 100: tmp = f_100
+			elif j == 101: tmp = f_101
+			elif j == 102: tmp = f_102
+			elif j == 103: tmp = f_103
+			elif j == 104: tmp = f_104
+			elif j == 105: tmp = f_105
+			elif j == 106: tmp = f_106
+			elif j == 107: tmp = f_107
+			elif j == 108: tmp = f_108
+			elif j == 109: tmp = f_109
+			elif j == 110: tmp = f_110
+			elif j == 111: tmp = f_111
+			elif j == 112: tmp = f_112
+			elif j == 113: tmp = f_113
+			elif j == 114: tmp = f_114
+			elif j == 115: tmp = f_115
+			elif j == 116: tmp = f_116
+			elif j == 117: tmp = f_117
+			elif j == 118: tmp = f_118
+			elif j == 119: tmp = f_119
+			elif j == 120: tmp = f_120
+			elif j == 121: tmp = f_121
+			elif j == 122: tmp = f_122
+			elif j == 123: tmp = f_123
+			elif j == 124: tmp = f_124
+			elif j == 125: tmp = f_125
+			elif j == 126: tmp = f_126
+			elif j == 127: tmp = f_127
+			elif j == 128: tmp = f_128
+			elif j == 129: tmp = f_129
+			elif j == 130: tmp = f_130
+			elif j == 131: tmp = f_131
+			elif j == 132: tmp = f_132
+			elif j == 133: tmp = f_133
+			elif j == 134: tmp = f_134
+			elif j == 135: tmp = f_135
+			elif j == 136: tmp = f_136
+			elif j == 137: tmp = f_137
+			elif j == 138: tmp = f_138
+			elif j == 139: tmp = f_139
+			elif j == 140: tmp = f_140
+			elif j == 141: tmp = f_141
+			elif j == 142: tmp = f_142
+			elif j == 143: tmp = f_143
+			elif j == 144: tmp = f_144
+			elif j == 145: tmp = f_145
+			elif j == 146: tmp = f_146
+			elif j == 147: tmp = f_147
+			elif j == 148: tmp = f_148
+			elif j == 149: tmp = f_149
+			elif j == 150: tmp = f_150
+			elif j == 151: tmp = f_151
+			elif j == 152: tmp = f_152
+			elif j == 153: tmp = f_153
+			elif j == 154: tmp = f_154
+			elif j == 155: tmp = f_155
+			elif j == 156: tmp = f_156
+			elif j == 157: tmp = f_157
+			elif j == 158: tmp = f_158
+			elif j == 159: tmp = f_159
+			elif j == 160: tmp = f_160
+			elif j == 161: tmp = f_161
+			elif j == 162: tmp = f_162
+			elif j == 163: tmp = f_163
+			elif j == 164: tmp = f_164
+			elif j == 165: tmp = f_165
+			elif j == 166: tmp = f_166
+			elif j == 167: tmp = f_167
+			elif j == 168: tmp = f_168
+			elif j == 169: tmp = f_169
+			elif j == 170: tmp = f_170
+			elif j == 171: tmp = f_171
+			elif j == 172: tmp = f_172
+			elif j == 173: tmp = f_173
+			elif j == 174: tmp = f_174
+			elif j == 175: tmp = f_175
+			elif j == 176: tmp = f_176
+			elif j == 177: tmp = f_177
+			elif j == 178: tmp = f_178
+			elif j == 179: tmp = f_179
+			elif j == 180: tmp = f_180
+			elif j == 181: tmp = f_181
+			elif j == 182: tmp = f_182
+			elif j == 183: tmp = f_183
+			elif j == 184: tmp = f_184
+			elif j == 185: tmp = f_185
+			elif j == 186: tmp = f_186
+			elif j == 187: tmp = f_187
+			elif j == 188: tmp = f_188
+			elif j == 189: tmp = f_189
+			elif j == 190: tmp = f_190
+			elif j == 191: tmp = f_191
+			elif j == 192: tmp = f_192
+			elif j == 193: tmp = f_193
+			elif j == 194: tmp = f_194
+			elif j == 195: tmp = f_195
+			elif j == 196: tmp = f_196
+			elif j == 197: tmp = f_197
+			elif j == 198: tmp = f_198
+			elif j == 199: tmp = f_199
+			elif j == 200: tmp = f_200
+			elif j == 201: tmp = f_201
+			elif j == 202: tmp = f_202
+			elif j == 203: tmp = f_203
+			elif j == 204: tmp = f_204
+			elif j == 205: tmp = f_205
+			elif j == 206: tmp = f_206
+			elif j == 207: tmp = f_207
+			elif j == 208: tmp = f_208
+			elif j == 209: tmp = f_209
+			elif j == 210: tmp = f_210
+			elif j == 211: tmp = f_211
+			elif j == 212: tmp = f_212
+			elif j == 213: tmp = f_213
+			elif j == 214: tmp = f_214
+			elif j == 215: tmp = f_215
+			elif j == 216: tmp = f_216
+			elif j == 217: tmp = f_217
+			elif j == 218: tmp = f_218
+			elif j == 219: tmp = f_219
+			elif j == 220: tmp = f_220
+			elif j == 221: tmp = f_221
+			elif j == 222: tmp = f_222
+			elif j == 223: tmp = f_223
+			elif j == 224: tmp = f_224
+			elif j == 225: tmp = f_225
+			elif j == 226: tmp = f_226
+			elif j == 227: tmp = f_227
+			elif j == 228: tmp = f_228
+			elif j == 229: tmp = f_229
+			elif j == 230: tmp = f_230
+			elif j == 231: tmp = f_231
+			else: tmp = f_232
+			if tmp <= x: break
+			j -= 1
+		if i <= j:
+			tmpi, tmpj = 0, 0
+			if i == 0: tmpi = f_0
+			elif i == 1: tmpi = f_1
+			elif i == 2: tmpi = f_2
+			elif i == 3: tmpi = f_3
+			elif i == 4: tmpi = f_4
+			elif i == 5: tmpi = f_5
+			elif i == 6: tmpi = f_6
+			elif i == 7: tmpi = f_7
+			elif i == 8: tmpi = f_8
+			elif i == 9: tmpi = f_9
+			elif i == 10: tmpi = f_10
+			elif i == 11: tmpi = f_11
+			elif i == 12: tmpi = f_12
+			elif i == 13: tmpi = f_13
+			elif i == 14: tmpi = f_14
+			elif i == 15: tmpi = f_15
+			elif i == 16: tmpi = f_16
+			elif i == 17: tmpi = f_17
+			elif i == 18: tmpi = f_18
+			elif i == 19: tmpi = f_19
+			elif i == 20: tmpi = f_20
+			elif i == 21: tmpi = f_21
+			elif i == 22: tmpi = f_22
+			elif i == 23: tmpi = f_23
+			elif i == 24: tmpi = f_24
+			elif i == 25: tmpi = f_25
+			elif i == 26: tmpi = f_26
+			elif i == 27: tmpi = f_27
+			elif i == 28: tmpi = f_28
+			elif i == 29: tmpi = f_29
+			elif i == 30: tmpi = f_30
+			elif i == 31: tmpi = f_31
+			elif i == 32: tmpi = f_32
+			elif i == 33: tmpi = f_33
+			elif i == 34: tmpi = f_34
+			elif i == 35: tmpi = f_35
+			elif i == 36: tmpi = f_36
+			elif i == 37: tmpi = f_37
+			elif i == 38: tmpi = f_38
+			elif i == 39: tmpi = f_39
+			elif i == 40: tmpi = f_40
+			elif i == 41: tmpi = f_41
+			elif i == 42: tmpi = f_42
+			elif i == 43: tmpi = f_43
+			elif i == 44: tmpi = f_44
+			elif i == 45: tmpi = f_45
+			elif i == 46: tmpi = f_46
+			elif i == 47: tmpi = f_47
+			elif i == 48: tmpi = f_48
+			elif i == 49: tmpi = f_49
+			elif i == 50: tmpi = f_50
+			elif i == 51: tmpi = f_51
+			elif i == 52: tmpi = f_52
+			elif i == 53: tmpi = f_53
+			elif i == 54: tmpi = f_54
+			elif i == 55: tmpi = f_55
+			elif i == 56: tmpi = f_56
+			elif i == 57: tmpi = f_57
+			elif i == 58: tmpi = f_58
+			elif i == 59: tmpi = f_59
+			elif i == 60: tmpi = f_60
+			elif i == 61: tmpi = f_61
+			elif i == 62: tmpi = f_62
+			elif i == 63: tmpi = f_63
+			elif i == 64: tmpi = f_64
+			elif i == 65: tmpi = f_65
+			elif i == 66: tmpi = f_66
+			elif i == 67: tmpi = f_67
+			elif i == 68: tmpi = f_68
+			elif i == 69: tmpi = f_69
+			elif i == 70: tmpi = f_70
+			elif i == 71: tmpi = f_71
+			elif i == 72: tmpi = f_72
+			elif i == 73: tmpi = f_73
+			elif i == 74: tmpi = f_74
+			elif i == 75: tmpi = f_75
+			elif i == 76: tmpi = f_76
+			elif i == 77: tmpi = f_77
+			elif i == 78: tmpi = f_78
+			elif i == 79: tmpi = f_79
+			elif i == 80: tmpi = f_80
+			elif i == 81: tmpi = f_81
+			elif i == 82: tmpi = f_82
+			elif i == 83: tmpi = f_83
+			elif i == 84: tmpi = f_84
+			elif i == 85: tmpi = f_85
+			elif i == 86: tmpi = f_86
+			elif i == 87: tmpi = f_87
+			elif i == 88: tmpi = f_88
+			elif i == 89: tmpi = f_89
+			elif i == 90: tmpi = f_90
+			elif i == 91: tmpi = f_91
+			elif i == 92: tmpi = f_92
+			elif i == 93: tmpi = f_93
+			elif i == 94: tmpi = f_94
+			elif i == 95: tmpi = f_95
+			elif i == 96: tmpi = f_96
+			elif i == 97: tmpi = f_97
+			elif i == 98: tmpi = f_98
+			elif i == 99: tmpi = f_99
+			elif i == 100: tmpi = f_100
+			elif i == 101: tmpi = f_101
+			elif i == 102: tmpi = f_102
+			elif i == 103: tmpi = f_103
+			elif i == 104: tmpi = f_104
+			elif i == 105: tmpi = f_105
+			elif i == 106: tmpi = f_106
+			elif i == 107: tmpi = f_107
+			elif i == 108: tmpi = f_108
+			elif i == 109: tmpi = f_109
+			elif i == 110: tmpi = f_110
+			elif i == 111: tmpi = f_111
+			elif i == 112: tmpi = f_112
+			elif i == 113: tmpi = f_113
+			elif i == 114: tmpi = f_114
+			elif i == 115: tmpi = f_115
+			elif i == 116: tmpi = f_116
+			elif i == 117: tmpi = f_117
+			elif i == 118: tmpi = f_118
+			elif i == 119: tmpi = f_119
+			elif i == 120: tmpi = f_120
+			elif i == 121: tmpi = f_121
+			elif i == 122: tmpi = f_122
+			elif i == 123: tmpi = f_123
+			elif i == 124: tmpi = f_124
+			elif i == 125: tmpi = f_125
+			elif i == 126: tmpi = f_126
+			elif i == 127: tmpi = f_127
+			elif i == 128: tmpi = f_128
+			elif i == 129: tmpi = f_129
+			elif i == 130: tmpi = f_130
+			elif i == 131: tmpi = f_131
+			elif i == 132: tmpi = f_132
+			elif i == 133: tmpi = f_133
+			elif i == 134: tmpi = f_134
+			elif i == 135: tmpi = f_135
+			elif i == 136: tmpi = f_136
+			elif i == 137: tmpi = f_137
+			elif i == 138: tmpi = f_138
+			elif i == 139: tmpi = f_139
+			elif i == 140: tmpi = f_140
+			elif i == 141: tmpi = f_141
+			elif i == 142: tmpi = f_142
+			elif i == 143: tmpi = f_143
+			elif i == 144: tmpi = f_144
+			elif i == 145: tmpi = f_145
+			elif i == 146: tmpi = f_146
+			elif i == 147: tmpi = f_147
+			elif i == 148: tmpi = f_148
+			elif i == 149: tmpi = f_149
+			elif i == 150: tmpi = f_150
+			elif i == 151: tmpi = f_151
+			elif i == 152: tmpi = f_152
+			elif i == 153: tmpi = f_153
+			elif i == 154: tmpi = f_154
+			elif i == 155: tmpi = f_155
+			elif i == 156: tmpi = f_156
+			elif i == 157: tmpi = f_157
+			elif i == 158: tmpi = f_158
+			elif i == 159: tmpi = f_159
+			elif i == 160: tmpi = f_160
+			elif i == 161: tmpi = f_161
+			elif i == 162: tmpi = f_162
+			elif i == 163: tmpi = f_163
+			elif i == 164: tmpi = f_164
+			elif i == 165: tmpi = f_165
+			elif i == 166: tmpi = f_166
+			elif i == 167: tmpi = f_167
+			elif i == 168: tmpi = f_168
+			elif i == 169: tmpi = f_169
+			elif i == 170: tmpi = f_170
+			elif i == 171: tmpi = f_171
+			elif i == 172: tmpi = f_172
+			elif i == 173: tmpi = f_173
+			elif i == 174: tmpi = f_174
+			elif i == 175: tmpi = f_175
+			elif i == 176: tmpi = f_176
+			elif i == 177: tmpi = f_177
+			elif i == 178: tmpi = f_178
+			elif i == 179: tmpi = f_179
+			elif i == 180: tmpi = f_180
+			elif i == 181: tmpi = f_181
+			elif i == 182: tmpi = f_182
+			elif i == 183: tmpi = f_183
+			elif i == 184: tmpi = f_184
+			elif i == 185: tmpi = f_185
+			elif i == 186: tmpi = f_186
+			elif i == 187: tmpi = f_187
+			elif i == 188: tmpi = f_188
+			elif i == 189: tmpi = f_189
+			elif i == 190: tmpi = f_190
+			elif i == 191: tmpi = f_191
+			elif i == 192: tmpi = f_192
+			elif i == 193: tmpi = f_193
+			elif i == 194: tmpi = f_194
+			elif i == 195: tmpi = f_195
+			elif i == 196: tmpi = f_196
+			elif i == 197: tmpi = f_197
+			elif i == 198: tmpi = f_198
+			elif i == 199: tmpi = f_199
+			elif i == 200: tmpi = f_200
+			elif i == 201: tmpi = f_201
+			elif i == 202: tmpi = f_202
+			elif i == 203: tmpi = f_203
+			elif i == 204: tmpi = f_204
+			elif i == 205: tmpi = f_205
+			elif i == 206: tmpi = f_206
+			elif i == 207: tmpi = f_207
+			elif i == 208: tmpi = f_208
+			elif i == 209: tmpi = f_209
+			elif i == 210: tmpi = f_210
+			elif i == 211: tmpi = f_211
+			elif i == 212: tmpi = f_212
+			elif i == 213: tmpi = f_213
+			elif i == 214: tmpi = f_214
+			elif i == 215: tmpi = f_215
+			elif i == 216: tmpi = f_216
+			elif i == 217: tmpi = f_217
+			elif i == 218: tmpi = f_218
+			elif i == 219: tmpi = f_219
+			elif i == 220: tmpi = f_220
+			elif i == 221: tmpi = f_221
+			elif i == 222: tmpi = f_222
+			elif i == 223: tmpi = f_223
+			elif i == 224: tmpi = f_224
+			elif i == 225: tmpi = f_225
+			elif i == 226: tmpi = f_226
+			elif i == 227: tmpi = f_227
+			elif i == 228: tmpi = f_228
+			elif i == 229: tmpi = f_229
+			elif i == 230: tmpi = f_230
+			elif i == 231: tmpi = f_231
+			else: tmpi = f_232
+			if j == 0: tmpj = f_0
+			elif j == 1: tmpj = f_1
+			elif j == 2: tmpj = f_2
+			elif j == 3: tmpj = f_3
+			elif j == 4: tmpj = f_4
+			elif j == 5: tmpj = f_5
+			elif j == 6: tmpj = f_6
+			elif j == 7: tmpj = f_7
+			elif j == 8: tmpj = f_8
+			elif j == 9: tmpj = f_9
+			elif j == 10: tmpj = f_10
+			elif j == 11: tmpj = f_11
+			elif j == 12: tmpj = f_12
+			elif j == 13: tmpj = f_13
+			elif j == 14: tmpj = f_14
+			elif j == 15: tmpj = f_15
+			elif j == 16: tmpj = f_16
+			elif j == 17: tmpj = f_17
+			elif j == 18: tmpj = f_18
+			elif j == 19: tmpj = f_19
+			elif j == 20: tmpj = f_20
+			elif j == 21: tmpj = f_21
+			elif j == 22: tmpj = f_22
+			elif j == 23: tmpj = f_23
+			elif j == 24: tmpj = f_24
+			elif j == 25: tmpj = f_25
+			elif j == 26: tmpj = f_26
+			elif j == 27: tmpj = f_27
+			elif j == 28: tmpj = f_28
+			elif j == 29: tmpj = f_29
+			elif j == 30: tmpj = f_30
+			elif j == 31: tmpj = f_31
+			elif j == 32: tmpj = f_32
+			elif j == 33: tmpj = f_33
+			elif j == 34: tmpj = f_34
+			elif j == 35: tmpj = f_35
+			elif j == 36: tmpj = f_36
+			elif j == 37: tmpj = f_37
+			elif j == 38: tmpj = f_38
+			elif j == 39: tmpj = f_39
+			elif j == 40: tmpj = f_40
+			elif j == 41: tmpj = f_41
+			elif j == 42: tmpj = f_42
+			elif j == 43: tmpj = f_43
+			elif j == 44: tmpj = f_44
+			elif j == 45: tmpj = f_45
+			elif j == 46: tmpj = f_46
+			elif j == 47: tmpj = f_47
+			elif j == 48: tmpj = f_48
+			elif j == 49: tmpj = f_49
+			elif j == 50: tmpj = f_50
+			elif j == 51: tmpj = f_51
+			elif j == 52: tmpj = f_52
+			elif j == 53: tmpj = f_53
+			elif j == 54: tmpj = f_54
+			elif j == 55: tmpj = f_55
+			elif j == 56: tmpj = f_56
+			elif j == 57: tmpj = f_57
+			elif j == 58: tmpj = f_58
+			elif j == 59: tmpj = f_59
+			elif j == 60: tmpj = f_60
+			elif j == 61: tmpj = f_61
+			elif j == 62: tmpj = f_62
+			elif j == 63: tmpj = f_63
+			elif j == 64: tmpj = f_64
+			elif j == 65: tmpj = f_65
+			elif j == 66: tmpj = f_66
+			elif j == 67: tmpj = f_67
+			elif j == 68: tmpj = f_68
+			elif j == 69: tmpj = f_69
+			elif j == 70: tmpj = f_70
+			elif j == 71: tmpj = f_71
+			elif j == 72: tmpj = f_72
+			elif j == 73: tmpj = f_73
+			elif j == 74: tmpj = f_74
+			elif j == 75: tmpj = f_75
+			elif j == 76: tmpj = f_76
+			elif j == 77: tmpj = f_77
+			elif j == 78: tmpj = f_78
+			elif j == 79: tmpj = f_79
+			elif j == 80: tmpj = f_80
+			elif j == 81: tmpj = f_81
+			elif j == 82: tmpj = f_82
+			elif j == 83: tmpj = f_83
+			elif j == 84: tmpj = f_84
+			elif j == 85: tmpj = f_85
+			elif j == 86: tmpj = f_86
+			elif j == 87: tmpj = f_87
+			elif j == 88: tmpj = f_88
+			elif j == 89: tmpj = f_89
+			elif j == 90: tmpj = f_90
+			elif j == 91: tmpj = f_91
+			elif j == 92: tmpj = f_92
+			elif j == 93: tmpj = f_93
+			elif j == 94: tmpj = f_94
+			elif j == 95: tmpj = f_95
+			elif j == 96: tmpj = f_96
+			elif j == 97: tmpj = f_97
+			elif j == 98: tmpj = f_98
+			elif j == 99: tmpj = f_99
+			elif j == 100: tmpj = f_100
+			elif j == 101: tmpj = f_101
+			elif j == 102: tmpj = f_102
+			elif j == 103: tmpj = f_103
+			elif j == 104: tmpj = f_104
+			elif j == 105: tmpj = f_105
+			elif j == 106: tmpj = f_106
+			elif j == 107: tmpj = f_107
+			elif j == 108: tmpj = f_108
+			elif j == 109: tmpj = f_109
+			elif j == 110: tmpj = f_110
+			elif j == 111: tmpj = f_111
+			elif j == 112: tmpj = f_112
+			elif j == 113: tmpj = f_113
+			elif j == 114: tmpj = f_114
+			elif j == 115: tmpj = f_115
+			elif j == 116: tmpj = f_116
+			elif j == 117: tmpj = f_117
+			elif j == 118: tmpj = f_118
+			elif j == 119: tmpj = f_119
+			elif j == 120: tmpj = f_120
+			elif j == 121: tmpj = f_121
+			elif j == 122: tmpj = f_122
+			elif j == 123: tmpj = f_123
+			elif j == 124: tmpj = f_124
+			elif j == 125: tmpj = f_125
+			elif j == 126: tmpj = f_126
+			elif j == 127: tmpj = f_127
+			elif j == 128: tmpj = f_128
+			elif j == 129: tmpj = f_129
+			elif j == 130: tmpj = f_130
+			elif j == 131: tmpj = f_131
+			elif j == 132: tmpj = f_132
+			elif j == 133: tmpj = f_133
+			elif j == 134: tmpj = f_134
+			elif j == 135: tmpj = f_135
+			elif j == 136: tmpj = f_136
+			elif j == 137: tmpj = f_137
+			elif j == 138: tmpj = f_138
+			elif j == 139: tmpj = f_139
+			elif j == 140: tmpj = f_140
+			elif j == 141: tmpj = f_141
+			elif j == 142: tmpj = f_142
+			elif j == 143: tmpj = f_143
+			elif j == 144: tmpj = f_144
+			elif j == 145: tmpj = f_145
+			elif j == 146: tmpj = f_146
+			elif j == 147: tmpj = f_147
+			elif j == 148: tmpj = f_148
+			elif j == 149: tmpj = f_149
+			elif j == 150: tmpj = f_150
+			elif j == 151: tmpj = f_151
+			elif j == 152: tmpj = f_152
+			elif j == 153: tmpj = f_153
+			elif j == 154: tmpj = f_154
+			elif j == 155: tmpj = f_155
+			elif j == 156: tmpj = f_156
+			elif j == 157: tmpj = f_157
+			elif j == 158: tmpj = f_158
+			elif j == 159: tmpj = f_159
+			elif j == 160: tmpj = f_160
+			elif j == 161: tmpj = f_161
+			elif j == 162: tmpj = f_162
+			elif j == 163: tmpj = f_163
+			elif j == 164: tmpj = f_164
+			elif j == 165: tmpj = f_165
+			elif j == 166: tmpj = f_166
+			elif j == 167: tmpj = f_167
+			elif j == 168: tmpj = f_168
+			elif j == 169: tmpj = f_169
+			elif j == 170: tmpj = f_170
+			elif j == 171: tmpj = f_171
+			elif j == 172: tmpj = f_172
+			elif j == 173: tmpj = f_173
+			elif j == 174: tmpj = f_174
+			elif j == 175: tmpj = f_175
+			elif j == 176: tmpj = f_176
+			elif j == 177: tmpj = f_177
+			elif j == 178: tmpj = f_178
+			elif j == 179: tmpj = f_179
+			elif j == 180: tmpj = f_180
+			elif j == 181: tmpj = f_181
+			elif j == 182: tmpj = f_182
+			elif j == 183: tmpj = f_183
+			elif j == 184: tmpj = f_184
+			elif j == 185: tmpj = f_185
+			elif j == 186: tmpj = f_186
+			elif j == 187: tmpj = f_187
+			elif j == 188: tmpj = f_188
+			elif j == 189: tmpj = f_189
+			elif j == 190: tmpj = f_190
+			elif j == 191: tmpj = f_191
+			elif j == 192: tmpj = f_192
+			elif j == 193: tmpj = f_193
+			elif j == 194: tmpj = f_194
+			elif j == 195: tmpj = f_195
+			elif j == 196: tmpj = f_196
+			elif j == 197: tmpj = f_197
+			elif j == 198: tmpj = f_198
+			elif j == 199: tmpj = f_199
+			elif j == 200: tmpj = f_200
+			elif j == 201: tmpj = f_201
+			elif j == 202: tmpj = f_202
+			elif j == 203: tmpj = f_203
+			elif j == 204: tmpj = f_204
+			elif j == 205: tmpj = f_205
+			elif j == 206: tmpj = f_206
+			elif j == 207: tmpj = f_207
+			elif j == 208: tmpj = f_208
+			elif j == 209: tmpj = f_209
+			elif j == 210: tmpj = f_210
+			elif j == 211: tmpj = f_211
+			elif j == 212: tmpj = f_212
+			elif j == 213: tmpj = f_213
+			elif j == 214: tmpj = f_214
+			elif j == 215: tmpj = f_215
+			elif j == 216: tmpj = f_216
+			elif j == 217: tmpj = f_217
+			elif j == 218: tmpj = f_218
+			elif j == 219: tmpj = f_219
+			elif j == 220: tmpj = f_220
+			elif j == 221: tmpj = f_221
+			elif j == 222: tmpj = f_222
+			elif j == 223: tmpj = f_223
+			elif j == 224: tmpj = f_224
+			elif j == 225: tmpj = f_225
+			elif j == 226: tmpj = f_226
+			elif j == 227: tmpj = f_227
+			elif j == 228: tmpj = f_228
+			elif j == 229: tmpj = f_229
+			elif j == 230: tmpj = f_230
+			elif j == 231: tmpj = f_231
+			else: tmpj = f_232
+			if i == 0: f_0 = tmpj
+			elif i == 1: f_1 = tmpj
+			elif i == 2: f_2 = tmpj
+			elif i == 3: f_3 = tmpj
+			elif i == 4: f_4 = tmpj
+			elif i == 5: f_5 = tmpj
+			elif i == 6: f_6 = tmpj
+			elif i == 7: f_7 = tmpj
+			elif i == 8: f_8 = tmpj
+			elif i == 9: f_9 = tmpj
+			elif i == 10: f_10 = tmpj
+			elif i == 11: f_11 = tmpj
+			elif i == 12: f_12 = tmpj
+			elif i == 13: f_13 = tmpj
+			elif i == 14: f_14 = tmpj
+			elif i == 15: f_15 = tmpj
+			elif i == 16: f_16 = tmpj
+			elif i == 17: f_17 = tmpj
+			elif i == 18: f_18 = tmpj
+			elif i == 19: f_19 = tmpj
+			elif i == 20: f_20 = tmpj
+			elif i == 21: f_21 = tmpj
+			elif i == 22: f_22 = tmpj
+			elif i == 23: f_23 = tmpj
+			elif i == 24: f_24 = tmpj
+			elif i == 25: f_25 = tmpj
+			elif i == 26: f_26 = tmpj
+			elif i == 27: f_27 = tmpj
+			elif i == 28: f_28 = tmpj
+			elif i == 29: f_29 = tmpj
+			elif i == 30: f_30 = tmpj
+			elif i == 31: f_31 = tmpj
+			elif i == 32: f_32 = tmpj
+			elif i == 33: f_33 = tmpj
+			elif i == 34: f_34 = tmpj
+			elif i == 35: f_35 = tmpj
+			elif i == 36: f_36 = tmpj
+			elif i == 37: f_37 = tmpj
+			elif i == 38: f_38 = tmpj
+			elif i == 39: f_39 = tmpj
+			elif i == 40: f_40 = tmpj
+			elif i == 41: f_41 = tmpj
+			elif i == 42: f_42 = tmpj
+			elif i == 43: f_43 = tmpj
+			elif i == 44: f_44 = tmpj
+			elif i == 45: f_45 = tmpj
+			elif i == 46: f_46 = tmpj
+			elif i == 47: f_47 = tmpj
+			elif i == 48: f_48 = tmpj
+			elif i == 49: f_49 = tmpj
+			elif i == 50: f_50 = tmpj
+			elif i == 51: f_51 = tmpj
+			elif i == 52: f_52 = tmpj
+			elif i == 53: f_53 = tmpj
+			elif i == 54: f_54 = tmpj
+			elif i == 55: f_55 = tmpj
+			elif i == 56: f_56 = tmpj
+			elif i == 57: f_57 = tmpj
+			elif i == 58: f_58 = tmpj
+			elif i == 59: f_59 = tmpj
+			elif i == 60: f_60 = tmpj
+			elif i == 61: f_61 = tmpj
+			elif i == 62: f_62 = tmpj
+			elif i == 63: f_63 = tmpj
+			elif i == 64: f_64 = tmpj
+			elif i == 65: f_65 = tmpj
+			elif i == 66: f_66 = tmpj
+			elif i == 67: f_67 = tmpj
+			elif i == 68: f_68 = tmpj
+			elif i == 69: f_69 = tmpj
+			elif i == 70: f_70 = tmpj
+			elif i == 71: f_71 = tmpj
+			elif i == 72: f_72 = tmpj
+			elif i == 73: f_73 = tmpj
+			elif i == 74: f_74 = tmpj
+			elif i == 75: f_75 = tmpj
+			elif i == 76: f_76 = tmpj
+			elif i == 77: f_77 = tmpj
+			elif i == 78: f_78 = tmpj
+			elif i == 79: f_79 = tmpj
+			elif i == 80: f_80 = tmpj
+			elif i == 81: f_81 = tmpj
+			elif i == 82: f_82 = tmpj
+			elif i == 83: f_83 = tmpj
+			elif i == 84: f_84 = tmpj
+			elif i == 85: f_85 = tmpj
+			elif i == 86: f_86 = tmpj
+			elif i == 87: f_87 = tmpj
+			elif i == 88: f_88 = tmpj
+			elif i == 89: f_89 = tmpj
+			elif i == 90: f_90 = tmpj
+			elif i == 91: f_91 = tmpj
+			elif i == 92: f_92 = tmpj
+			elif i == 93: f_93 = tmpj
+			elif i == 94: f_94 = tmpj
+			elif i == 95: f_95 = tmpj
+			elif i == 96: f_96 = tmpj
+			elif i == 97: f_97 = tmpj
+			elif i == 98: f_98 = tmpj
+			elif i == 99: f_99 = tmpj
+			elif i == 100: f_100 = tmpj
+			elif i == 101: f_101 = tmpj
+			elif i == 102: f_102 = tmpj
+			elif i == 103: f_103 = tmpj
+			elif i == 104: f_104 = tmpj
+			elif i == 105: f_105 = tmpj
+			elif i == 106: f_106 = tmpj
+			elif i == 107: f_107 = tmpj
+			elif i == 108: f_108 = tmpj
+			elif i == 109: f_109 = tmpj
+			elif i == 110: f_110 = tmpj
+			elif i == 111: f_111 = tmpj
+			elif i == 112: f_112 = tmpj
+			elif i == 113: f_113 = tmpj
+			elif i == 114: f_114 = tmpj
+			elif i == 115: f_115 = tmpj
+			elif i == 116: f_116 = tmpj
+			elif i == 117: f_117 = tmpj
+			elif i == 118: f_118 = tmpj
+			elif i == 119: f_119 = tmpj
+			elif i == 120: f_120 = tmpj
+			elif i == 121: f_121 = tmpj
+			elif i == 122: f_122 = tmpj
+			elif i == 123: f_123 = tmpj
+			elif i == 124: f_124 = tmpj
+			elif i == 125: f_125 = tmpj
+			elif i == 126: f_126 = tmpj
+			elif i == 127: f_127 = tmpj
+			elif i == 128: f_128 = tmpj
+			elif i == 129: f_129 = tmpj
+			elif i == 130: f_130 = tmpj
+			elif i == 131: f_131 = tmpj
+			elif i == 132: f_132 = tmpj
+			elif i == 133: f_133 = tmpj
+			elif i == 134: f_134 = tmpj
+			elif i == 135: f_135 = tmpj
+			elif i == 136: f_136 = tmpj
+			elif i == 137: f_137 = tmpj
+			elif i == 138: f_138 = tmpj
+			elif i == 139: f_139 = tmpj
+			elif i == 140: f_140 = tmpj
+			elif i == 141: f_141 = tmpj
+			elif i == 142: f_142 = tmpj
+			elif i == 143: f_143 = tmpj
+			elif i == 144: f_144 = tmpj
+			elif i == 145: f_145 = tmpj
+			elif i == 146: f_146 = tmpj
+			elif i == 147: f_147 = tmpj
+			elif i == 148: f_148 = tmpj
+			elif i == 149: f_149 = tmpj
+			elif i == 150: f_150 = tmpj
+			elif i == 151: f_151 = tmpj
+			elif i == 152: f_152 = tmpj
+			elif i == 153: f_153 = tmpj
+			elif i == 154: f_154 = tmpj
+			elif i == 155: f_155 = tmpj
+			elif i == 156: f_156 = tmpj
+			elif i == 157: f_157 = tmpj
+			elif i == 158: f_158 = tmpj
+			elif i == 159: f_159 = tmpj
+			elif i == 160: f_160 = tmpj
+			elif i == 161: f_161 = tmpj
+			elif i == 162: f_162 = tmpj
+			elif i == 163: f_163 = tmpj
+			elif i == 164: f_164 = tmpj
+			elif i == 165: f_165 = tmpj
+			elif i == 166: f_166 = tmpj
+			elif i == 167: f_167 = tmpj
+			elif i == 168: f_168 = tmpj
+			elif i == 169: f_169 = tmpj
+			elif i == 170: f_170 = tmpj
+			elif i == 171: f_171 = tmpj
+			elif i == 172: f_172 = tmpj
+			elif i == 173: f_173 = tmpj
+			elif i == 174: f_174 = tmpj
+			elif i == 175: f_175 = tmpj
+			elif i == 176: f_176 = tmpj
+			elif i == 177: f_177 = tmpj
+			elif i == 178: f_178 = tmpj
+			elif i == 179: f_179 = tmpj
+			elif i == 180: f_180 = tmpj
+			elif i == 181: f_181 = tmpj
+			elif i == 182: f_182 = tmpj
+			elif i == 183: f_183 = tmpj
+			elif i == 184: f_184 = tmpj
+			elif i == 185: f_185 = tmpj
+			elif i == 186: f_186 = tmpj
+			elif i == 187: f_187 = tmpj
+			elif i == 188: f_188 = tmpj
+			elif i == 189: f_189 = tmpj
+			elif i == 190: f_190 = tmpj
+			elif i == 191: f_191 = tmpj
+			elif i == 192: f_192 = tmpj
+			elif i == 193: f_193 = tmpj
+			elif i == 194: f_194 = tmpj
+			elif i == 195: f_195 = tmpj
+			elif i == 196: f_196 = tmpj
+			elif i == 197: f_197 = tmpj
+			elif i == 198: f_198 = tmpj
+			elif i == 199: f_199 = tmpj
+			elif i == 200: f_200 = tmpj
+			elif i == 201: f_201 = tmpj
+			elif i == 202: f_202 = tmpj
+			elif i == 203: f_203 = tmpj
+			elif i == 204: f_204 = tmpj
+			elif i == 205: f_205 = tmpj
+			elif i == 206: f_206 = tmpj
+			elif i == 207: f_207 = tmpj
+			elif i == 208: f_208 = tmpj
+			elif i == 209: f_209 = tmpj
+			elif i == 210: f_210 = tmpj
+			elif i == 211: f_211 = tmpj
+			elif i == 212: f_212 = tmpj
+			elif i == 213: f_213 = tmpj
+			elif i == 214: f_214 = tmpj
+			elif i == 215: f_215 = tmpj
+			elif i == 216: f_216 = tmpj
+			elif i == 217: f_217 = tmpj
+			elif i == 218: f_218 = tmpj
+			elif i == 219: f_219 = tmpj
+			elif i == 220: f_220 = tmpj
+			elif i == 221: f_221 = tmpj
+			elif i == 222: f_222 = tmpj
+			elif i == 223: f_223 = tmpj
+			elif i == 224: f_224 = tmpj
+			elif i == 225: f_225 = tmpj
+			elif i == 226: f_226 = tmpj
+			elif i == 227: f_227 = tmpj
+			elif i == 228: f_228 = tmpj
+			elif i == 229: f_229 = tmpj
+			elif i == 230: f_230 = tmpj
+			elif i == 231: f_231 = tmpj
+			else: f_232 = tmpj
+			if j == 0: f_0 = tmpi
+			elif j == 1: f_1 = tmpi
+			elif j == 2: f_2 = tmpi
+			elif j == 3: f_3 = tmpi
+			elif j == 4: f_4 = tmpi
+			elif j == 5: f_5 = tmpi
+			elif j == 6: f_6 = tmpi
+			elif j == 7: f_7 = tmpi
+			elif j == 8: f_8 = tmpi
+			elif j == 9: f_9 = tmpi
+			elif j == 10: f_10 = tmpi
+			elif j == 11: f_11 = tmpi
+			elif j == 12: f_12 = tmpi
+			elif j == 13: f_13 = tmpi
+			elif j == 14: f_14 = tmpi
+			elif j == 15: f_15 = tmpi
+			elif j == 16: f_16 = tmpi
+			elif j == 17: f_17 = tmpi
+			elif j == 18: f_18 = tmpi
+			elif j == 19: f_19 = tmpi
+			elif j == 20: f_20 = tmpi
+			elif j == 21: f_21 = tmpi
+			elif j == 22: f_22 = tmpi
+			elif j == 23: f_23 = tmpi
+			elif j == 24: f_24 = tmpi
+			elif j == 25: f_25 = tmpi
+			elif j == 26: f_26 = tmpi
+			elif j == 27: f_27 = tmpi
+			elif j == 28: f_28 = tmpi
+			elif j == 29: f_29 = tmpi
+			elif j == 30: f_30 = tmpi
+			elif j == 31: f_31 = tmpi
+			elif j == 32: f_32 = tmpi
+			elif j == 33: f_33 = tmpi
+			elif j == 34: f_34 = tmpi
+			elif j == 35: f_35 = tmpi
+			elif j == 36: f_36 = tmpi
+			elif j == 37: f_37 = tmpi
+			elif j == 38: f_38 = tmpi
+			elif j == 39: f_39 = tmpi
+			elif j == 40: f_40 = tmpi
+			elif j == 41: f_41 = tmpi
+			elif j == 42: f_42 = tmpi
+			elif j == 43: f_43 = tmpi
+			elif j == 44: f_44 = tmpi
+			elif j == 45: f_45 = tmpi
+			elif j == 46: f_46 = tmpi
+			elif j == 47: f_47 = tmpi
+			elif j == 48: f_48 = tmpi
+			elif j == 49: f_49 = tmpi
+			elif j == 50: f_50 = tmpi
+			elif j == 51: f_51 = tmpi
+			elif j == 52: f_52 = tmpi
+			elif j == 53: f_53 = tmpi
+			elif j == 54: f_54 = tmpi
+			elif j == 55: f_55 = tmpi
+			elif j == 56: f_56 = tmpi
+			elif j == 57: f_57 = tmpi
+			elif j == 58: f_58 = tmpi
+			elif j == 59: f_59 = tmpi
+			elif j == 60: f_60 = tmpi
+			elif j == 61: f_61 = tmpi
+			elif j == 62: f_62 = tmpi
+			elif j == 63: f_63 = tmpi
+			elif j == 64: f_64 = tmpi
+			elif j == 65: f_65 = tmpi
+			elif j == 66: f_66 = tmpi
+			elif j == 67: f_67 = tmpi
+			elif j == 68: f_68 = tmpi
+			elif j == 69: f_69 = tmpi
+			elif j == 70: f_70 = tmpi
+			elif j == 71: f_71 = tmpi
+			elif j == 72: f_72 = tmpi
+			elif j == 73: f_73 = tmpi
+			elif j == 74: f_74 = tmpi
+			elif j == 75: f_75 = tmpi
+			elif j == 76: f_76 = tmpi
+			elif j == 77: f_77 = tmpi
+			elif j == 78: f_78 = tmpi
+			elif j == 79: f_79 = tmpi
+			elif j == 80: f_80 = tmpi
+			elif j == 81: f_81 = tmpi
+			elif j == 82: f_82 = tmpi
+			elif j == 83: f_83 = tmpi
+			elif j == 84: f_84 = tmpi
+			elif j == 85: f_85 = tmpi
+			elif j == 86: f_86 = tmpi
+			elif j == 87: f_87 = tmpi
+			elif j == 88: f_88 = tmpi
+			elif j == 89: f_89 = tmpi
+			elif j == 90: f_90 = tmpi
+			elif j == 91: f_91 = tmpi
+			elif j == 92: f_92 = tmpi
+			elif j == 93: f_93 = tmpi
+			elif j == 94: f_94 = tmpi
+			elif j == 95: f_95 = tmpi
+			elif j == 96: f_96 = tmpi
+			elif j == 97: f_97 = tmpi
+			elif j == 98: f_98 = tmpi
+			elif j == 99: f_99 = tmpi
+			elif j == 100: f_100 = tmpi
+			elif j == 101: f_101 = tmpi
+			elif j == 102: f_102 = tmpi
+			elif j == 103: f_103 = tmpi
+			elif j == 104: f_104 = tmpi
+			elif j == 105: f_105 = tmpi
+			elif j == 106: f_106 = tmpi
+			elif j == 107: f_107 = tmpi
+			elif j == 108: f_108 = tmpi
+			elif j == 109: f_109 = tmpi
+			elif j == 110: f_110 = tmpi
+			elif j == 111: f_111 = tmpi
+			elif j == 112: f_112 = tmpi
+			elif j == 113: f_113 = tmpi
+			elif j == 114: f_114 = tmpi
+			elif j == 115: f_115 = tmpi
+			elif j == 116: f_116 = tmpi
+			elif j == 117: f_117 = tmpi
+			elif j == 118: f_118 = tmpi
+			elif j == 119: f_119 = tmpi
+			elif j == 120: f_120 = tmpi
+			elif j == 121: f_121 = tmpi
+			elif j == 122: f_122 = tmpi
+			elif j == 123: f_123 = tmpi
+			elif j == 124: f_124 = tmpi
+			elif j == 125: f_125 = tmpi
+			elif j == 126: f_126 = tmpi
+			elif j == 127: f_127 = tmpi
+			elif j == 128: f_128 = tmpi
+			elif j == 129: f_129 = tmpi
+			elif j == 130: f_130 = tmpi
+			elif j == 131: f_131 = tmpi
+			elif j == 132: f_132 = tmpi
+			elif j == 133: f_133 = tmpi
+			elif j == 134: f_134 = tmpi
+			elif j == 135: f_135 = tmpi
+			elif j == 136: f_136 = tmpi
+			elif j == 137: f_137 = tmpi
+			elif j == 138: f_138 = tmpi
+			elif j == 139: f_139 = tmpi
+			elif j == 140: f_140 = tmpi
+			elif j == 141: f_141 = tmpi
+			elif j == 142: f_142 = tmpi
+			elif j == 143: f_143 = tmpi
+			elif j == 144: f_144 = tmpi
+			elif j == 145: f_145 = tmpi
+			elif j == 146: f_146 = tmpi
+			elif j == 147: f_147 = tmpi
+			elif j == 148: f_148 = tmpi
+			elif j == 149: f_149 = tmpi
+			elif j == 150: f_150 = tmpi
+			elif j == 151: f_151 = tmpi
+			elif j == 152: f_152 = tmpi
+			elif j == 153: f_153 = tmpi
+			elif j == 154: f_154 = tmpi
+			elif j == 155: f_155 = tmpi
+			elif j == 156: f_156 = tmpi
+			elif j == 157: f_157 = tmpi
+			elif j == 158: f_158 = tmpi
+			elif j == 159: f_159 = tmpi
+			elif j == 160: f_160 = tmpi
+			elif j == 161: f_161 = tmpi
+			elif j == 162: f_162 = tmpi
+			elif j == 163: f_163 = tmpi
+			elif j == 164: f_164 = tmpi
+			elif j == 165: f_165 = tmpi
+			elif j == 166: f_166 = tmpi
+			elif j == 167: f_167 = tmpi
+			elif j == 168: f_168 = tmpi
+			elif j == 169: f_169 = tmpi
+			elif j == 170: f_170 = tmpi
+			elif j == 171: f_171 = tmpi
+			elif j == 172: f_172 = tmpi
+			elif j == 173: f_173 = tmpi
+			elif j == 174: f_174 = tmpi
+			elif j == 175: f_175 = tmpi
+			elif j == 176: f_176 = tmpi
+			elif j == 177: f_177 = tmpi
+			elif j == 178: f_178 = tmpi
+			elif j == 179: f_179 = tmpi
+			elif j == 180: f_180 = tmpi
+			elif j == 181: f_181 = tmpi
+			elif j == 182: f_182 = tmpi
+			elif j == 183: f_183 = tmpi
+			elif j == 184: f_184 = tmpi
+			elif j == 185: f_185 = tmpi
+			elif j == 186: f_186 = tmpi
+			elif j == 187: f_187 = tmpi
+			elif j == 188: f_188 = tmpi
+			elif j == 189: f_189 = tmpi
+			elif j == 190: f_190 = tmpi
+			elif j == 191: f_191 = tmpi
+			elif j == 192: f_192 = tmpi
+			elif j == 193: f_193 = tmpi
+			elif j == 194: f_194 = tmpi
+			elif j == 195: f_195 = tmpi
+			elif j == 196: f_196 = tmpi
+			elif j == 197: f_197 = tmpi
+			elif j == 198: f_198 = tmpi
+			elif j == 199: f_199 = tmpi
+			elif j == 200: f_200 = tmpi
+			elif j == 201: f_201 = tmpi
+			elif j == 202: f_202 = tmpi
+			elif j == 203: f_203 = tmpi
+			elif j == 204: f_204 = tmpi
+			elif j == 205: f_205 = tmpi
+			elif j == 206: f_206 = tmpi
+			elif j == 207: f_207 = tmpi
+			elif j == 208: f_208 = tmpi
+			elif j == 209: f_209 = tmpi
+			elif j == 210: f_210 = tmpi
+			elif j == 211: f_211 = tmpi
+			elif j == 212: f_212 = tmpi
+			elif j == 213: f_213 = tmpi
+			elif j == 214: f_214 = tmpi
+			elif j == 215: f_215 = tmpi
+			elif j == 216: f_216 = tmpi
+			elif j == 217: f_217 = tmpi
+			elif j == 218: f_218 = tmpi
+			elif j == 219: f_219 = tmpi
+			elif j == 220: f_220 = tmpi
+			elif j == 221: f_221 = tmpi
+			elif j == 222: f_222 = tmpi
+			elif j == 223: f_223 = tmpi
+			elif j == 224: f_224 = tmpi
+			elif j == 225: f_225 = tmpi
+			elif j == 226: f_226 = tmpi
+			elif j == 227: f_227 = tmpi
+			elif j == 228: f_228 = tmpi
+			elif j == 229: f_229 = tmpi
+			elif j == 230: f_230 = tmpi
+			elif j == 231: f_231 = tmpi
+			else: f_232 = tmpi
+			i += 1
+			j -= 1
+	if l < j: qsort(l, j)
+	if i < r: qsort(i, r)
+
+
+qsort(0, n - 1)
+k = 0
+while k < n:
+	if k == 0: print(f_0)
+	elif k == 1: print(f_1)
+	elif k == 2: print(f_2)
+	elif k == 3: print(f_3)
+	elif k == 4: print(f_4)
+	elif k == 5: print(f_5)
+	elif k == 6: print(f_6)
+	elif k == 7: print(f_7)
+	elif k == 8: print(f_8)
+	elif k == 9: print(f_9)
+	elif k == 10: print(f_10)
+	elif k == 11: print(f_11)
+	elif k == 12: print(f_12)
+	elif k == 13: print(f_13)
+	elif k == 14: print(f_14)
+	elif k == 15: print(f_15)
+	elif k == 16: print(f_16)
+	elif k == 17: print(f_17)
+	elif k == 18: print(f_18)
+	elif k == 19: print(f_19)
+	elif k == 20: print(f_20)
+	elif k == 21: print(f_21)
+	elif k == 22: print(f_22)
+	elif k == 23: print(f_23)
+	elif k == 24: print(f_24)
+	elif k == 25: print(f_25)
+	elif k == 26: print(f_26)
+	elif k == 27: print(f_27)
+	elif k == 28: print(f_28)
+	elif k == 29: print(f_29)
+	elif k == 30: print(f_30)
+	elif k == 31: print(f_31)
+	elif k == 32: print(f_32)
+	elif k == 33: print(f_33)
+	elif k == 34: print(f_34)
+	elif k == 35: print(f_35)
+	elif k == 36: print(f_36)
+	elif k == 37: print(f_37)
+	elif k == 38: print(f_38)
+	elif k == 39: print(f_39)
+	elif k == 40: print(f_40)
+	elif k == 41: print(f_41)
+	elif k == 42: print(f_42)
+	elif k == 43: print(f_43)
+	elif k == 44: print(f_44)
+	elif k == 45: print(f_45)
+	elif k == 46: print(f_46)
+	elif k == 47: print(f_47)
+	elif k == 48: print(f_48)
+	elif k == 49: print(f_49)
+	elif k == 50: print(f_50)
+	elif k == 51: print(f_51)
+	elif k == 52: print(f_52)
+	elif k == 53: print(f_53)
+	elif k == 54: print(f_54)
+	elif k == 55: print(f_55)
+	elif k == 56: print(f_56)
+	elif k == 57: print(f_57)
+	elif k == 58: print(f_58)
+	elif k == 59: print(f_59)
+	elif k == 60: print(f_60)
+	elif k == 61: print(f_61)
+	elif k == 62: print(f_62)
+	elif k == 63: print(f_63)
+	elif k == 64: print(f_64)
+	elif k == 65: print(f_65)
+	elif k == 66: print(f_66)
+	elif k == 67: print(f_67)
+	elif k == 68: print(f_68)
+	elif k == 69: print(f_69)
+	elif k == 70: print(f_70)
+	elif k == 71: print(f_71)
+	elif k == 72: print(f_72)
+	elif k == 73: print(f_73)
+	elif k == 74: print(f_74)
+	elif k == 75: print(f_75)
+	elif k == 76: print(f_76)
+	elif k == 77: print(f_77)
+	elif k == 78: print(f_78)
+	elif k == 79: print(f_79)
+	elif k == 80: print(f_80)
+	elif k == 81: print(f_81)
+	elif k == 82: print(f_82)
+	elif k == 83: print(f_83)
+	elif k == 84: print(f_84)
+	elif k == 85: print(f_85)
+	elif k == 86: print(f_86)
+	elif k == 87: print(f_87)
+	elif k == 88: print(f_88)
+	elif k == 89: print(f_89)
+	elif k == 90: print(f_90)
+	elif k == 91: print(f_91)
+	elif k == 92: print(f_92)
+	elif k == 93: print(f_93)
+	elif k == 94: print(f_94)
+	elif k == 95: print(f_95)
+	elif k == 96: print(f_96)
+	elif k == 97: print(f_97)
+	elif k == 98: print(f_98)
+	elif k == 99: print(f_99)
+	elif k == 100: print(f_100)
+	elif k == 101: print(f_101)
+	elif k == 102: print(f_102)
+	elif k == 103: print(f_103)
+	elif k == 104: print(f_104)
+	elif k == 105: print(f_105)
+	elif k == 106: print(f_106)
+	elif k == 107: print(f_107)
+	elif k == 108: print(f_108)
+	elif k == 109: print(f_109)
+	elif k == 110: print(f_110)
+	elif k == 111: print(f_111)
+	elif k == 112: print(f_112)
+	elif k == 113: print(f_113)
+	elif k == 114: print(f_114)
+	elif k == 115: print(f_115)
+	elif k == 116: print(f_116)
+	elif k == 117: print(f_117)
+	elif k == 118: print(f_118)
+	elif k == 119: print(f_119)
+	elif k == 120: print(f_120)
+	elif k == 121: print(f_121)
+	elif k == 122: print(f_122)
+	elif k == 123: print(f_123)
+	elif k == 124: print(f_124)
+	elif k == 125: print(f_125)
+	elif k == 126: print(f_126)
+	elif k == 127: print(f_127)
+	elif k == 128: print(f_128)
+	elif k == 129: print(f_129)
+	elif k == 130: print(f_130)
+	elif k == 131: print(f_131)
+	elif k == 132: print(f_132)
+	elif k == 133: print(f_133)
+	elif k == 134: print(f_134)
+	elif k == 135: print(f_135)
+	elif k == 136: print(f_136)
+	elif k == 137: print(f_137)
+	elif k == 138: print(f_138)
+	elif k == 139: print(f_139)
+	elif k == 140: print(f_140)
+	elif k == 141: print(f_141)
+	elif k == 142: print(f_142)
+	elif k == 143: print(f_143)
+	elif k == 144: print(f_144)
+	elif k == 145: print(f_145)
+	elif k == 146: print(f_146)
+	elif k == 147: print(f_147)
+	elif k == 148: print(f_148)
+	elif k == 149: print(f_149)
+	elif k == 150: print(f_150)
+	elif k == 151: print(f_151)
+	elif k == 152: print(f_152)
+	elif k == 153: print(f_153)
+	elif k == 154: print(f_154)
+	elif k == 155: print(f_155)
+	elif k == 156: print(f_156)
+	elif k == 157: print(f_157)
+	elif k == 158: print(f_158)
+	elif k == 159: print(f_159)
+	elif k == 160: print(f_160)
+	elif k == 161: print(f_161)
+	elif k == 162: print(f_162)
+	elif k == 163: print(f_163)
+	elif k == 164: print(f_164)
+	elif k == 165: print(f_165)
+	elif k == 166: print(f_166)
+	elif k == 167: print(f_167)
+	elif k == 168: print(f_168)
+	elif k == 169: print(f_169)
+	elif k == 170: print(f_170)
+	elif k == 171: print(f_171)
+	elif k == 172: print(f_172)
+	elif k == 173: print(f_173)
+	elif k == 174: print(f_174)
+	elif k == 175: print(f_175)
+	elif k == 176: print(f_176)
+	elif k == 177: print(f_177)
+	elif k == 178: print(f_178)
+	elif k == 179: print(f_179)
+	elif k == 180: print(f_180)
+	elif k == 181: print(f_181)
+	elif k == 182: print(f_182)
+	elif k == 183: print(f_183)
+	elif k == 184: print(f_184)
+	elif k == 185: print(f_185)
+	elif k == 186: print(f_186)
+	elif k == 187: print(f_187)
+	elif k == 188: print(f_188)
+	elif k == 189: print(f_189)
+	elif k == 190: print(f_190)
+	elif k == 191: print(f_191)
+	elif k == 192: print(f_192)
+	elif k == 193: print(f_193)
+	elif k == 194: print(f_194)
+	elif k == 195: print(f_195)
+	elif k == 196: print(f_196)
+	elif k == 197: print(f_197)
+	elif k == 198: print(f_198)
+	elif k == 199: print(f_199)
+	elif k == 200: print(f_200)
+	elif k == 201: print(f_201)
+	elif k == 202: print(f_202)
+	elif k == 203: print(f_203)
+	elif k == 204: print(f_204)
+	elif k == 205: print(f_205)
+	elif k == 206: print(f_206)
+	elif k == 207: print(f_207)
+	elif k == 208: print(f_208)
+	elif k == 209: print(f_209)
+	elif k == 210: print(f_210)
+	elif k == 211: print(f_211)
+	elif k == 212: print(f_212)
+	elif k == 213: print(f_213)
+	elif k == 214: print(f_214)
+	elif k == 215: print(f_215)
+	elif k == 216: print(f_216)
+	elif k == 217: print(f_217)
+	elif k == 218: print(f_218)
+	elif k == 219: print(f_219)
+	elif k == 220: print(f_220)
+	elif k == 221: print(f_221)
+	elif k == 222: print(f_222)
+	elif k == 223: print(f_223)
+	elif k == 224: print(f_224)
+	elif k == 225: print(f_225)
+	elif k == 226: print(f_226)
+	elif k == 227: print(f_227)
+	elif k == 228: print(f_228)
+	elif k == 229: print(f_229)
+	elif k == 230: print(f_230)
+	elif k == 231: print(f_231)
+	else: print(f_232)
+	k += 1
